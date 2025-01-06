@@ -1,3 +1,1 @@
-https://imgur.com/a/FjqFxt3
-
-![tt](https://imgur.com/LVbvouu)
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
